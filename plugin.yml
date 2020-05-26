@@ -1,0 +1,10 @@
+name: NoCapitals
+main: Kinoki\NoCapitals\Main
+api: [3.0.0]
+version: 1.0
+author: Kinoki
+
+permissions:
+  nocapitals.bypass:
+    description: "Allows a player to bypass using capital letters"
+    default: op
